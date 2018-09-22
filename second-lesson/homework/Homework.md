@@ -16,6 +16,10 @@
 Для пустых элементов присутствует класс `not-an-element`, который используется аналогично. 
 Если остались вопросы касательно работы атрибута __class__, то подробности можно посмотреть [здесь](https://webref.ru/html/attr/class).
 
+Таблица цветов:
+
+![Таблица цветов](https://github.com/MaximumStart/initial-course/blob/master/second-lesson/homework/colours_table.png)
+
 
 ---
 #### Расчетное время выполнения: 2 - 4 часа.
