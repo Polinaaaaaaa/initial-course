@@ -9,3 +9,4 @@
 * [Изменяем блочную модель, свойство box-sizing](https://htmlacademy.ru/courses/44/run/15)
 * [Box Sizing | CSS Tricks](https://css-tricks.com/box-sizing/)
 * [Размеры блоков, или Назад в будущее](https://web-standards.ru/articles/box-sizing/)
+* [Use Cases For Flexbox](https://www.smashingmagazine.com/2018/10/flexbox-use-cases/)
